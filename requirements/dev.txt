@@ -5,3 +5,5 @@ black[jupyter]
 pyright
 llama_index
 notebook
+ipykernel==6.25.1
+IProgress==0.4
